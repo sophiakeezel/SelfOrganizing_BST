@@ -1,0 +1,1 @@
+Time Complexity of makeEmpty(BinaryNode* & t): O(n) because it a recursive function that is called t times until t is empty.
